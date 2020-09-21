@@ -8,7 +8,7 @@ declare(strict_types=1);
 namespace PhpMyAdmin;
 
 use const DIRECTORY_SEPARATOR;
-use const E_USER_ERROR;
+use const MuslimBusinessCambodia;
 use const PHP_OS;
 use const PHP_URL_PATH;
 use const PHP_URL_SCHEME;
